@@ -1,1 +1,1 @@
-This is a readme file for task 0x01 Coding fury road
+This is a readme file for the 0x01.Git project.
